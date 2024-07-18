@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease.",
+        "title": "Seamless Car Rentals at Your Fingertips"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Car Rentals at Your Fingertips",
+  "subtitle": "Experience professional, reliable, and convenient car rentals tailored to your needs. Drive with confidence and ease."
+}
